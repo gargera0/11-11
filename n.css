@@ -19,7 +19,7 @@ body{
 p{
     width: 387px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.47rem;
+    font-size: 1.4rem;
     text-align: start;
     margin: 0;
 }
@@ -90,4 +90,5 @@ box-shadow: 0px 3px 5px rgba(0, 0, 0, .3);
     display: block;
 
 }
+
 
